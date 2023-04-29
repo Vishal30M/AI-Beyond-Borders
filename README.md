@@ -1,218 +1,63 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-
+  [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=04r25h)
+  <br/>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+# Travelly web site
 
-# 📗 Table of Contents
+> This project is Myfirst Capstone project, I created for Sport Summit India 2023 with HTML,CSS and JavaScript.
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+> Desktop View:
+<img src="./ezgif.com-gif-maker (1).gif" width="100%" />
 
-<!-- PROJECT DESCRIPTION -->
+> Mobile View:
+<div align="center">
+  <img src="./ezgif.com-gif-maker (2).gif" width="50%" />
+  <br/>
+</div>
 
-# 📖 Portfolio-Website <a name="about-project"></a>
+## Built With
 
-> 
-**Portfolio-Website** In this project, I set up my portfolio repository. My goal here was to set up and customize my portfolio for mobile version.
-## 🛠 Built With <a name="built-with"></a>
-HTML
-CSS
-### Tech Stack <a name="tech-stack"></a>
-HTML
-CSS
+- Languages: _**HTML, CSS, JavaScript**_
+- Technologies used: _**GIT, GITHUB, LINTERS,Netlify**_
 
+## Additional tools
+ - Google fonts
 
-<!-- Features -->
+## Live Demo
+In progress
+[See My project Live here](#)
 
-### Key Features <a name="key-features"></a>
+## Authors
+
+<!-- Only Change Username for Different Accounts -->
+
+👤 **Qurban Ali Safari**
+
+ Platform | Badge |
+ --- | --- |
+ **GitHub**  | [@Vishal30M](https://github.com/Vishal30M)
+ **Twitter** | [@Vismiss30](https://twitter.com/Vismiss30)
+ **LinkdIn** | [vishal-kumar-mishra](https://www.linkedin.com/in/vishal-kumar-mishra-0a5226232/)
 
 
-- **[Linters]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://vishal30m.github.io/Portfolio/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-Git, A text editor
-
-
-
-### Setup
-
-Clone this repository to your desired folder
-<ol>
-<li>Go to the repository page.
-</li>
-<li>Press the "Code" button and copy the link.
-</li>
-<li>Clone it using git command git clone <link>.
-</li>
-</ol>
-git clone git@github.com/Vishal30M/Portfolio.git
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-No installation needed
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-index.html
-
-
-### Run tests
-
-To run tests, run the following command:
-
-No test
-### Deployment
-
-You can deploy this project using:
-
-No deployment yet
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-
-👤 **Vishal Mishra**
-- GitHub: [@Vishal30M](https://github.com/Vishal30M)
-- Twitter: [@Vismiss30](https://twitter.com/Vismiss30)
-- LinkedIn: [vishal-kumar-mishra](https://www.linkedin.com/in/vishal-kumar-mishra-0a5226232/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-<ul>
-<li>Understand how to parse a Figma design to create a UI.</li>
-<li>Flexbox to place elements in the page.
-</li>
-<li>Build a personal portfolio site.
-</li>
-<li>Use images and backgrounds to enhance the look of the website.
-</li>
-</ul>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Vishal30M/Sports-summit-India/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Show your support
 
-<!-- SUPPORT -->
+Give a ⭐️ if you like this project!
 
-## ⭐️ Show your support <a name="support"></a>
+## Acknowledgments
 
+- The Original UI design idea by [Behance](https://www.behance.net/adagio07) in Behance.
 
-If you like this project please give it stars.
+## 📝 License
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-I would like to thank Microverse.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](/LICENSE) licensed.
