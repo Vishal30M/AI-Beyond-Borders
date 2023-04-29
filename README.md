@@ -6,16 +6,46 @@
   <br/>
 </div>
 
-# Travelly web site
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [🚀 Live Demo](#live-demo)
+  - [Additional tool]
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+
+# Sport Summit India 2023
 
 > This project is Myfirst Capstone project, I created for Sport Summit India 2023 with HTML,CSS and JavaScript.
 
 > Desktop View:
-<img src="./ezgif.com-gif-maker (1).gif" width="100%" />
+  <img src="./assets/Screenshot 2023-04-28 184410.png" width="100%" />
+  <br/>
+  <img src="./assets/Screenshot 2023-04-28 184445.png" width="100%" />
+  <br/>
+  <img src="./assets/Screenshot 2023-04-28 184515.png" width="100%" />
+  <br/>
+  <img src="./assets/Screenshot 2023-04-28 184537.png" width="100%" />
 
 > Mobile View:
 <div align="center">
-  <img src="./ezgif.com-gif-maker (2).gif" width="50%" />
+  <img src="./assets/" width="50%" />
+  <br/>
+  <img src="./assets/s0.png" width="50%" />
+  <br/>
+  <img src="./assets/s1.png" width="50%" />
+  <br/>
+  <img src="./assets/s2.png" width="50%" />
+  <br/>
+  <img src="./assets/s3.png" width="50%" />
+  <br/>
+  <img src="./assets/s4.png" width="50%" />
   <br/>
 </div>
 
@@ -35,8 +65,7 @@ In progress
 
 <!-- Only Change Username for Different Accounts -->
 
-👤 **Qurban Ali Safari**
-
+👤 **Vishal Mishra**
  Platform | Badge |
  --- | --- |
  **GitHub**  | [@Vishal30M](https://github.com/Vishal30M)
