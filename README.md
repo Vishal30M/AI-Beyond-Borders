@@ -32,28 +32,6 @@
 
 > This project is Myfirst Capstone project, I created for Sport Summit India 2023 with HTML,CSS and JavaScript.
 
-> Desktop View:
-  <img src="./assets/ss1.png" width="100%" />
-  <br/>
-  <img src="./assets/ss2.png" width="100%" />
-  <br/>
-  <img src="./assets/ss3.png" width="100%" />
-
-> Mobile View:
-<div align="center">
-
-  <img src="./assets/s0.png" width="50%" />
-  <br/>
-  <img src="./assets/s1.png" width="50%" />
-  <br/>
-  <img src="./assets/s2.png" width="50%" />
-  <br/>
-  <img src="./assets/s3.png" width="50%" />
-  <br/>
-  <img src="./assets/s4.png" width="50%" />
-  <br/>
-</div>
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -90,7 +68,7 @@
 
 > |     | Mobile version                      | Desktop version                      |     |
 > | --- | ----------------------------------- | ------------------------------------ | --- |
-> |     | ![Screenshot1](./images/screenshots/mobile.gif) | ![Screenshot2](./images/screenshots/desktop.gif) |
+> |     | ![Screenshot1](https://github.com/Vishal30M/Sports-summit-India/blob/sport-summit/assets/ezgif.com-gif-maker%20(1).gif) | ![Screenshot2](https://github.com/Vishal30M/Sports-summit-India/blob/sport-summit/assets/ezgif.com-gif-maker.gif) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +91,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Technopreneur.git
+git clone https://github.com/Vishal30M/Sports-summit-India.git
 ```
 
 - Navigate to the location of the folder in your machine:
