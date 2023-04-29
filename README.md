@@ -25,18 +25,17 @@
 > This project is Myfirst Capstone project, I created for Sport Summit India 2023 with HTML,CSS and JavaScript.
 
 > Desktop View:
-  <img src="./assets/Screenshot 2023-04-28 184410.png" width="100%" />
+  <img src="./assets/ss0.png" width="100%" />
   <br/>
-  <img src="./assets/Screenshot 2023-04-28 184445.png" width="100%" />
+  <img src="./assets/ss1.png" width="100%" />
   <br/>
-  <img src="./assets/Screenshot 2023-04-28 184515.png" width="100%" />
+  <img src="./assets/ss2.png" width="100%" />
   <br/>
-  <img src="./assets/Screenshot 2023-04-28 184537.png" width="100%" />
+  <img src="./assets/ss3.png" width="100%" />
 
 > Mobile View:
 <div align="center">
-  <img src="./assets/" width="50%" />
-  <br/>
+
   <img src="./assets/s0.png" width="50%" />
   <br/>
   <img src="./assets/s1.png" width="50%" />
