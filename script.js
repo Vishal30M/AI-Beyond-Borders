@@ -41,7 +41,7 @@ function displaySpeakers() {
     speakersToShow = speakers.length;
   }
 
-  for (let i = 0; i < speakersToShow; i++) {
+  for (let i = 0; i < speakersToShow; i += 1) {
     const speaker = speakers[i];
 
     speakerHtml += `
@@ -65,7 +65,7 @@ function displaySpeakers() {
     const lessBtn = speakerContainer.querySelector('.more-btn');
     lessBtn.textContent = 'More ▼';
     lessBtn.removeEventListener('click', showLessSpeakers);
-    lessBtn.addEventListener('click', showMoreSpeakers);
+    lessBtn.addEventListener('click', showMoreSpeakers); // eslint-disable-line no-use-before-define
   }
 
   function showMoreSpeakers() {
