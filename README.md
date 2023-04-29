@@ -25,8 +25,6 @@
 > This project is Myfirst Capstone project, I created for Sport Summit India 2023 with HTML,CSS and JavaScript.
 
 > Desktop View:
-  <img src="./assets/ss0.png" width="100%" />
-  <br/>
   <img src="./assets/ss1.png" width="100%" />
   <br/>
   <img src="./assets/ss2.png" width="100%" />
