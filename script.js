@@ -76,7 +76,7 @@ function displaySpeakers() {
 
   function showMoreSpeakers() {
     if (speakersToShow < speakers.length) {
-      speakersToShow += 3;
+      speakersToShow += 4;
       displaySpeakers();
     } else {
       const moreBtn = speakerContainer.querySelector('.more-btn');
