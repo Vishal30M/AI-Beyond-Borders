@@ -104,6 +104,12 @@ header {
 .container {
   margin: 15px;
   margin-top: 40px;
+  padding: 10px 100px;
+}
+
+#abt-container {
+  padding: 10px 100px;
+  ma
 }
 
 .p-1 {
@@ -174,6 +180,7 @@ header {
   background-position: center;
   justify-content: center;
   background-color: rgb(42, 42, 44);
+  padding: 10px 100px;
 }
 
 .program-list {
@@ -216,6 +223,8 @@ header {
   background-color: #65656b;
   opacity: 0.9;
   margin-top: 15px;
+  width: 444px;
+  height: 132px;
 }
 
 .main-pro li img {
@@ -283,6 +292,7 @@ footer p {
 #featured-speakers {
   display: flex;
   flex-direction: column;
+  padding: 10px 100px;
 }
 
 .ven h2 {
@@ -326,6 +336,7 @@ footer p {
   color: #f55800;
   text-align: center;
   margin: 20px 0;
+  padding: 10px 100px;
 }
 
 .speaker-text {
@@ -379,7 +390,7 @@ footer p {
 }
 
 .abt-container {
-  margin: 10px 20px;
+  padding: 10px 100px;
 }
 
 .p-3 {
@@ -445,6 +456,7 @@ footer p {
 .ven,
 .past-venue {
   width: 100%;
+  padding: 10px 100px;
 }
 
 .short-hr {
@@ -525,7 +537,7 @@ footer p {
   margin-top: 20px;
   margin-bottom: 0;
   background-color: #1a1818;
-  padding: 15px 0;
+  padding: 10px 100px;
   align-items: center;
 }
 
@@ -547,7 +559,7 @@ footer {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 10px;
+  padding: 10px 100px;
   background-color: #fff;
   text-align: center;
   justify-content: space-between;
@@ -597,7 +609,7 @@ footer {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 10px 40px;
+    padding: 10px 200px;
     background-color: #2e2929;
     border-bottom: 1px solid #ccc;
     width: 100%;
@@ -605,7 +617,7 @@ footer {
 
   .up-nav a {
     color: #fff;
-    margin-right: 20px;
+    padding: 0 10px;
     text-decoration: none;
   }
 
@@ -621,7 +633,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 0 40px;
+    padding: 0 200px;
     margin-bottom: 10px;
     background-color: #fff;
     width: 100%;
@@ -645,12 +657,20 @@ footer {
   }
 
   .menu-bigscreen li {
-    margin-left: 20px;
+    padding: 0 10px;
   }
 
   .menu-bigscreen a {
     font-size: 20px;
     color: #333;
+  }
+
+  .menu-bigscreen .nav-btn {
+    font-size: 20px;
+    border: 3px solid #e96625;
+    color: #e96625;
+    padding: 10px;
+    margin: 0;
   }
 
   .close-icon {
@@ -685,7 +705,8 @@ footer {
   }
 
   .container {
-    margin: 150px 300px;
+    margin: 150px 0;
+    padding: 10px 200px;
   }
 
   .p-1 {
@@ -741,15 +762,19 @@ footer {
 
   .venue {
     font-size: 18px;
-    margin: 20px 30px;
+    margin: 20px 0;
     font-family: 'Lato', sans-serif;
     color: #1c1b1a;
     text-align: center;
   }
 
-  .program {
-    padding: 40px;
+  #program {
+    padding: 10px 200px;
     justify-content: center;
+  }
+
+  .cont {
+    padding: 10px 200px;
   }
 
   .head-2 {
@@ -769,6 +794,8 @@ footer {
     flex-direction: column;
     justify-content: center;
     gap: 2%;
+    width: 237px;
+    height: auto;
   }
 
   .main-pro li:hover {
@@ -867,10 +894,6 @@ footer {
     padding: 10px;
   }
 
-  footer p {
-    margin: 0 60px;
-  }
-
   .main-pro li p {
     color: #fff;
     padding: 10px;
@@ -900,7 +923,8 @@ footer {
   #featured-speakers {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 30px 20px;
+    margin: 30px;
+    padding: 10px 200px;
   }
 
   .speaker:nth-child(odd) {
@@ -943,7 +967,6 @@ footer {
   }
 
   .speaker-text {
-    margin-left: 10px;
     width: 100%;
   }
 
@@ -972,7 +995,6 @@ footer {
 
   .speaker:nth-child(2n+1) {
     flex-basis: calc(50% - 40px);
-    margin-right: 40px;
   }
 
   .speaker:nth-child(2n) {
@@ -987,11 +1009,11 @@ footer {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 0;
+    padding: 10px 200px;
   }
 
   #abt-container {
-    margin: 150px 300px;
+    padding: 10px 200px;
   }
 
   .p-3 {
@@ -1050,11 +1072,12 @@ footer {
     justify-content: center;
     align-items: center;
     width: 100%;
+    padding: 10px 200px;
   }
 
   .ven,
   .past-venue {
-    width: 100%;
+    padding: 10px 200px;
   }
 
   .short-hr {
@@ -1064,8 +1087,6 @@ footer {
 
   .short-hr1 {
     display: inline-block;
-    margin-left: 20px;
-    margin-right: 20px;
   }
 
   .short-hr0 {
@@ -1075,7 +1096,6 @@ footer {
 
   .ven .stand {
     display: block;
-    margin: 30px auto;
     width: 10%;
     align-items: center;
   }
@@ -1093,7 +1113,6 @@ footer {
   .past-venue .past {
     width: 400px;
     height: 400px;
-    margin: 15px auto;
   }
 
   .past-p {
@@ -1101,7 +1120,6 @@ footer {
     flex-direction: row;
     justify-content: center;
     gap: 10%;
-    margin: 0 auto;
     padding: 20px;
   }
 
@@ -1124,14 +1142,13 @@ footer {
     margin-top: 20px;
     margin-bottom: 0;
     background-color: #1a1818;
-    padding: 15px 0;
+    padding: 10px 200px;
     align-items: center;
   }
 
   .brand {
     width: 100%;
     max-width: 100px;
-    margin: 18px;
   }
 
   footer {
@@ -1140,14 +1157,13 @@ footer {
     align-items: center;
     background-color: #fff;
     text-align: center;
-    padding: 10px 20px;
+    padding: 10px 200px;
     justify-content: space-between;
   }
 
   .fot-img {
     width: 120px;
     height: 120px;
-    margin: 10px 60px;
     padding: 30px;
   }
 
@@ -1163,7 +1179,7 @@ footer {
     margin-top: 20px;
     margin-bottom: 0;
     background-color: #1a1818;
-    padding: 15px 0;
+    padding: 10px 200px;
     align-items: center;
   }
 
@@ -1181,7 +1197,7 @@ footer {
     align-items: center;
     background-color: #fff;
     text-align: center;
-    padding: 10px 20px;
+    padding: 10px 200px;
     justify-content: space-between;
   }
 }
