@@ -1,218 +1,199 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-
+  [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=04r25h)
+  <br/>
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+[📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [📹 Video Description](#video-description)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+  - [Deployment](#deployment)
+- [👤 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
+# Sport Summit India 2023
 
-<!-- PROJECT DESCRIPTION -->
+> This project is Myfirst Capstone project, I created for Sport Summit India 2023 with HTML,CSS and JavaScript.
 
-# 📖 Portfolio-Website <a name="about-project"></a>
-
-> 
-**Portfolio-Website** In this project, I set up my portfolio repository. My goal here was to set up and customize my portfolio for mobile version.
 ## 🛠 Built With <a name="built-with"></a>
-HTML
-CSS
+
 ### Tech Stack <a name="tech-stack"></a>
-HTML
-CSS
 
-
-<!-- Features -->
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS3</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">JavaScript</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-
-- **[Linters]**
+- **Responsive Design.**
+- **Pixel Perfect design.**
+- **Multiple pages app.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+## Additional tools
+ - Google fonts
+
+## 📹 Video Description <a name="video-description"></a>
+
+- [Here is a video walk through given by myself.](https://www.loom.com/share/48124edd14ed4e3a8c5eb6cffdd60e80)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://vishal30m.github.io/Portfolio/)
+- [Here is the link to the live experience](https://vishal30m.github.io/Sports-summit-India/).
+
+> |     | Mobile version                      | Desktop version                      |     |
+> | --- | ----------------------------------- | ------------------------------------ | --- |
+> |     | ![Screenshot1](https://github.com/Vishal30M/Sports-summit-India/blob/sport-summit/assets/ezgif.com-gif-maker%20(1).gif) | ![Screenshot2](https://github.com/Vishal30M/Sports-summit-India/blob/sport-summit/assets/ezgif.com-gif-maker.gif) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-Git, A text editor
 
-
+- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
+- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
+- `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
+- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+- [A terminal](https://code.visualstudio.com/docs/terminal/basics).
 
 ### Setup
 
-Clone this repository to your desired folder
-<ol>
-<li>Go to the repository page.
-</li>
-<li>Press the "Code" button and copy the link.
-</li>
-<li>Clone it using git command git clone <link>.
-</li>
-</ol>
-git clone git@github.com/Vishal30M/Portfolio.git
-<!--
-Example commands:
+Clone this repository to your desired folder or download the Zip folder:
 
-```sh
-  cd my-folder
-git clone git@github.com:myaccount/my-project.git
 ```
---->
+git clone https://github.com/Vishal30M/Sports-summit-India.git
+```
+
+- Navigate to the location of the folder in your machine:
+
+**``you@your-Pc-name:~$ cd Technopreneur``**
 
 ### Install
 
-Install this project with:
+To install all dependencies, run:
 
-No installation needed
---->
+```
+npm install
+```
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, follow these instructions:
 
-index.html
-
+- After Cloning this repo to your local machine.
+- Open the `index.html` in your browser.
 
 ### Run tests
 
 To run tests, run the following command:
 
-No test
-### Deployment
+- Track HTML linter errors run:
+```
+npx hint .
+```
+- Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+- Track JavaScript linter errors run:
+```
+npx eslint .
+```
+### Deployment <a name="deployment"></a>
 
-You can deploy this project using:
+You can deploy this project using: GitHub Pages,
+- I used GitHub Pages to deploy my website.
+- For more information about publishing sources, see "[About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
 
-No deployment yet
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+## Authors
 
-## 👥 Authors <a name="authors"></a>
-
+<!-- Only Change Username for Different Accounts -->
 
 👤 **Vishal Mishra**
-- GitHub: [@Vishal30M](https://github.com/Vishal30M)
-- Twitter: [@Vismiss30](https://twitter.com/Vismiss30)
-- LinkedIn: [vishal-kumar-mishra](https://www.linkedin.com/in/vishal-kumar-mishra-0a5226232/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
+ Platform | Badge |
+ --- | --- |
+ **GitHub**  | [@Vishal30M](https://github.com/Vishal30M)
+ **Twitter** | [@Vismiss30](https://twitter.com/Vismiss30)
+ **LinkdIn** | [vishal-kumar-mishra](https://www.linkedin.com/in/vishal-kumar-mishra-0a5226232/)
 
 ## 🔭 Future Features <a name="future-features"></a>
-<ul>
-<li>Understand how to parse a Figma design to create a UI.</li>
-<li>Flexbox to place elements in the page.
-</li>
-<li>Build a personal portfolio site.
-</li>
-<li>Use images and backgrounds to enhance the look of the website.
-</li>
-</ul>
+
+- [ ] **Implement Transitions Animation for hover effect.**
+- [ ] **Implement a Sign up page.**
+- [ ] **Add more pages.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Vishal30M/Sports-summit-India/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+- Project from [Microverse](https://www.microverse.org/) html & css module.
+- Images inspired by [Unsplash](https://unsplash.com/).
+- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks).
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedbacks.
+- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
+- Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## ❓ FAQ <a name="faq"></a>
 
-## ⭐️ Show your support <a name="support"></a>
+- **Can I fork and reuse the repository**
 
+  - Yes please, feel free.
 
-If you like this project please give it stars.
+- **Can I improve the repository, and my changes will be accepted if they are good?**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-I would like to thank Microverse.
+  - Yes please, nice ideas are welcome, please.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
+## 📝 License
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
