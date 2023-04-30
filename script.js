@@ -29,6 +29,12 @@ const speakers = [
     image: './assets/neeraj.jpg',
     bio: "He's the current Olympic champion, World Championship silver medalist, and Diamond League champion in Javelin throw, and the first Asian to win Men's Javelin throw Olympic gold.",
   },
+  {
+    name: 'Sachin Tendulkar',
+    title: 'Indian former international cricketer',
+    image: './assets/330px-Sachin-Tendulkar.jpg',
+    bio: "He's the current Olympic champion, World Championship silver medalist, and Diamond League champion in Javelin throw, and the first Asian to win Men's Javelin throw Olympic gold.",
+  },
 ];
 
 const speakerContainer = document.getElementById('featured-speakers');
