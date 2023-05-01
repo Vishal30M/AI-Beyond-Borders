@@ -43,7 +43,7 @@ let speakersToShow = 2;
 function displaySpeakers() {
   let speakerHtml = '';
 
-  if (window.innerWidth > 768) {
+  if (window.innerWidth >= 768) {
     speakersToShow = speakers.length;
   }
 
